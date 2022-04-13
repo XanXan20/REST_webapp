@@ -21,9 +21,7 @@ public class MyController {
 
         List<Employee> allEmployees = communicator.getAllEmployees();
         model.addAttribute("allEmployees", allEmployees);
-
-        System.out.println(communicator == null);
-
+        
         return "all-emps-view";
     }
 

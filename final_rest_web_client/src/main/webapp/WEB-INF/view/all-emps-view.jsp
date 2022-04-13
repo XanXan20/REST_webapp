@@ -8,11 +8,11 @@
 
 <table>
     <tr>
-        <th>login</th>
-        <th>password</th>
-        <th>full name</th>
-        <th>phone number</th>
-        <th>address</th>
+        <th>Login</th>
+        <th>Password</th>
+        <th>Full name</th>
+        <th>Phone number</th>
+        <th>Address</th>
 
     </tr>
 

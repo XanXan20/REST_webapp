@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="final_rest_web_client" />
         <module name="rest_final_web_client" />
       </profile>
     </annotationProcessing>
